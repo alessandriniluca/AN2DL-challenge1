@@ -1,0 +1,1 @@
+We subdivided the various approaches in subfolders. The report refers to notebooks included in this folder. We inserted also a folder containing the scripts we created to manipulate the dataset.
