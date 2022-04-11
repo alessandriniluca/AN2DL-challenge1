@@ -25,7 +25,7 @@ We concorded together three different approach to this problem. Everyone develop
 Be careful when running the notebook. Often, also from the same author, the path to the folders (both for checkpoints, testing, or loading images) changes, due to the fact that we may run the notebook in a different environment. Please, **adjust your folder path** according to your system. We mainly used Google Colab with Google Drive.
 
 ## Where are all the commits?
-Unfortunately, since we worked remotely with Google Drive, we had no time to update every single notebook a GitHub folder, hence we decided to put here only the submission folder as a main reference.
+Unfortunately, since we worked with Google Colab (hence, on Google Drive), we had no time to keep a copy of every single change also on GitHub, hence we decided to put here only the submission folder as a main reference.
 
 ## Submission
 We had to submit all the scripts we (eventually) used, all the notebooks commented, and a final report of maximum 3 pages, explaining the approach we followed
