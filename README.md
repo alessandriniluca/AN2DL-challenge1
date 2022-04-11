@@ -4,6 +4,7 @@
 This is the repository which contains the submission to the first challenge of the course **Artificial Neural Networks and Deep Learning** at Politecnico di Milano.
 
 Challenge 1 - Team name: **Dead_Neurons**
+
 University: **Politecnico di Milano, Laurea Magistrale (MSc) - Computer Science and Engineering**
 
 ## How the competition works
