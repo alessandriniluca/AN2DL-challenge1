@@ -15,7 +15,7 @@ The Leaderboard was just for us, the main purpose of this challenge (competition
 The zipped file of the dataset just contained a folder, named "train", in which there were leaves from different classes. Pre processing (as splitting in folders, or any other kind of augmentation on images) was left to us. We developed some scripts in order to better manage it.
 
 ## Our Team
-- Luca Alessanrini  
+- Luca Alessandrini  
 - Luca Venturini (added as collaborator)
 - Ruggiero Ronzulli (added as collaborator)
 
